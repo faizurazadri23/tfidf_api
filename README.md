@@ -186,9 +186,6 @@ Untuk lingkungan produksi, disarankan:
 
 ---
 
-## 🧑‍💻 Pembuat
+## 🧑‍💻 Lisensi
 
-**TF-IDF Hybrid Search API**  
-Dibuat oleh: *Faizura Zadri*  
-Lisensi: MIT License  
-Tahun: 2025
+Proyek ini menggunakan MIT License — silakan digunakan, dimodifikasi, dan dikembangkan secara bebas.

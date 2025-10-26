@@ -189,6 +189,6 @@ Untuk lingkungan produksi, disarankan:
 ## 🧑‍💻 Pembuat
 
 **TF-IDF Hybrid Search API**  
-Dibuat oleh: *Faizura Zadri & ChatGPT (GPT-5)*  
+Dibuat oleh: *Faizura Zadri*  
 Lisensi: MIT License  
 Tahun: 2025

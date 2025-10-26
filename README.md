@@ -44,7 +44,7 @@ tfidf_api/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/username/tfidf-api.git
+git clone https://github.com/faizurazadri23/tfidf_api.git
 cd tfidf-api
 ```
 
